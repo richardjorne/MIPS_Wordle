@@ -1,5 +1,5 @@
 # MIPS_Wordle
-A wordle game in MIPS. Feel free to take as an reference!
+A wordle game in MIPS. Feel free to take as a reference!
 
 Copying directly is NOT allowed.
 ---
